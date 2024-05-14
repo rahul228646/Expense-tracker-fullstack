@@ -1,4 +1,4 @@
-# Expense Tracer
+# Expense Tracker
 
 <img width="371" alt="Screenshot 2024-05-14 at 11 45 45 PM" src="https://github.com/rahul228646/Expense-tracker-fullstack/assets/56363090/468e0372-1f3f-4109-8642-464ec9dc9a54">
 <img width="370" alt="Screenshot 2024-05-14 at 11 44 37 PM" src="https://github.com/rahul228646/Expense-tracker-fullstack/assets/56363090/303241e0-d018-499e-aa1f-29b1befc2015">
