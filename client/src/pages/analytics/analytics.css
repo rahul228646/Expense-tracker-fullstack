@@ -1,0 +1,45 @@
+.analytics-root {
+    position: relative;
+    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+.analytics-header {
+    text-align: center;
+    display: flex;
+}
+
+.transaction-selection-area {
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.data-selection {
+    margin-left: auto;
+    width: 50%;
+}
+
+.transactions-area-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.transactions-area {
+    margin-top: 20px;
+}
+
+.analytic-item  {
+    padding: 0px 10px;
+}
+
+.selected-item {
+    background-color: #2196f3;
+    box-shadow: 0 2px 10px 0 rgba(0,0,0,.2);
+    color: white !important;
+    border-radius: 10px;
+}

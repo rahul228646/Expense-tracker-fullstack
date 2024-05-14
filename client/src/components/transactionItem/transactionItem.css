@@ -1,0 +1,17 @@
+.item-root {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+    align-items: center;
+}
+
+.item-title.MuiTypography-root {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.anmount-typo.MuiTypography-root {
+    font-weight: bold;
+    font-size: 16px;
+
+}

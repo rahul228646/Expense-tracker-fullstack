@@ -1,0 +1,25 @@
+.bck-overlay-root {
+    height: 100vh;
+    width: 200vw;
+    background-color: #2196f3;
+    border-radius: 100%;
+    position: absolute;
+    top:-65vh;
+    transform: translate(-28%, 0);
+    z-index: -1;
+
+}
+
+.home-header {
+    color: white;
+}
+
+.home-greeting.MuiTypography-root  {
+    font-weight: normal;
+    font-size: 12px;
+}
+
+.home-name.MuiTypography-root  {
+    font-weight: bold;
+    font-size: 16px;
+}

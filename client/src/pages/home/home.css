@@ -1,0 +1,18 @@
+/* 2196f3 */
+.home-root {
+    position: relative;
+    padding: 20px;
+    padding-top: 40px;
+    overflow-x : clip;
+    padding-bottom: 80px;
+}
+
+
+.transaction-data {
+    margin-top: 20px;
+}
+
+.transaction-data-title.MuiTypography-root {
+    font-size: 20px;
+    font-weight: bold;
+}

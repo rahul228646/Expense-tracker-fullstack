@@ -1,0 +1,33 @@
+.card-root {
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    padding: 20px 15px 20px 15px;
+    gap: 20px;
+    background-color: #1674c2;
+    color: white;
+}
+.card-header {
+    display: flex;
+    flex-direction: column;
+}
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.income, .expense, .balance {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.total-amount.MuiTypography-root {
+    font-size: 28px;
+    font-weight: bold;
+}
+.income-expense-amount.MuiTypography-root  {
+    font-size: 20px;
+    font-weight:700;
+}

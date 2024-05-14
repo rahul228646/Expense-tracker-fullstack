@@ -1,0 +1,18 @@
+.date-tabs-root {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.date-tab {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selected-tab {
+    background-color: #2196f3;
+    color: white;
+    border-radius: 6px;
+    padding: 4px 10px;
+}
